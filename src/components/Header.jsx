@@ -24,8 +24,8 @@ const Header = () => (
           </div>
           <div className="p-1 text-white">
             <span className="sr-only">View notifications</span>
-            <span className="hidden sm:block">Línea de Farmacovigilancia: 080047000</span>
-            <span className="block sm:hidden">080047000</span>
+            <span className="hidden sm:block">Línea de Farmacovigilancia: 01 644-9279 Anex. 25 ó 28</span>
+            <span className="block sm:hidden">01 644-9279 Anex. 25 ó 28</span>
           </div>
         </div>
       </div>

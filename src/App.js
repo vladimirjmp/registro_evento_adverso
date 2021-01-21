@@ -10,7 +10,8 @@ function App() {
       <div className=" flex-1 overflow-auto">
         <div className="py-10 text-center">
           <h1 className="pb-2 text-blue-500 text-2xl font-black">Formulario de Registro de Eventos Adversos</h1>
-          <p className="text-sm text-gray-600">Complete los datos solicitados en el formulario, es muy importante que estos datos sean veraces y correctos ya que solo así podremos hacer seguimiento al evento reportado.</p>
+          <p className="text-sm text-gray-600">Complete los datos solicitados en el formulario, es muy importante que estos datos sean verídicos y correctos ya que solo así podremos hacer seguimiento al evento reportado.</p>
+          <p className="text-sm text-gray-600">La información que usted proporcione 	en este formulario será estrictamente confidencial.</p>
         </div>
         <Form />
       </div>
